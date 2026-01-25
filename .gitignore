@@ -1,0 +1,10 @@
+# --- Ignorer les Données ---
+data/
+*.csv
+
+# --- Ignorer le Modèle Entraîné ---
+*.pkl
+*.joblib
+*.h5
+model_*.save
+
